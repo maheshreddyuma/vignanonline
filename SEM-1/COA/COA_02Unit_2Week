@@ -1,0 +1,125 @@
+Question 1
+ In which of the following mode the operand is stored in memory, and the location’s address is specified directly in the instruction?
+
+Response: Absolute mode
+
+Correct : Absolute mode
+
+Score: 1 out of 1 Yes
+
+Question 2
+ The instruction, MOV AX, 1234H is an example of__________.
+
+Response: immediate addressing mode
+
+Correct : immediate addressing mode
+
+Score: 1 out of 1 Yes
+
+Question 3
+ JUMP is a command that belongs to_____________.
+
+Response: control transfer & branch instructions
+
+Correct : control transfer & branch instructions
+
+Score: 1 out of 1 Yes
+
+Question 4
+ The one-byte instruction has a length of_____________.
+
+Response: 1 bytes
+
+Correct : 1 bytes
+
+Score: 1 out of 1 Yes
+
+Question 5
+ The instruction, MOV AX, [2500H] is an example of____________.
+
+Response: direct addressing mode
+
+Correct : direct addressing mode
+
+Score: 1 out of 1 Yes
+
+Question 6
+ The operand is of____________ if a W-bit value is ‘1’.
+
+Response: 16 bits
+
+Correct : 16 bits
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Instructions that transfer control to a preset address or an address specified in the instruction are referred to as.
+
+Response: control transfer instructions
+
+Correct : control transfer instructions
+
+Score: 1 out of 1 Yes
+
+Question 8
+ In a computer instruction format, the R/M field provide___________.
+
+Response: all of the mentioned
+
+Correct : all of the mentioned
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Which of the following are the elements of a machine language instruction format?
+
+Response: Operation code field & operand field
+
+Correct : Operation code field & operand field
+
+Score: 1 out of 1 Yes
+
+Question 10
+ In a machine instruction format, S-bit is the___________.
+
+Response: sign extension bit
+
+Correct : sign extension bit
+
+Score: 1 out of 1 Yes
+
+Question 11
+ The bit that the ‘REP’ instruction uses is__________.
+
+Response: W-bit
+
+Correct : Z-bit
+
+Score: 0 out of 1 No
+
+Question 12
+ The instruction, MOV AX,[BX] is an example of_________.
+
+Response: register indirect addressing mode
+
+Correct : register indirect addressing mode
+
+Score: 1 out of 1 Yes
+
+Question 13
+ The ‘register to register’ instruction format has a length of____________.
+
+Response: 1 bytes
+
+Correct : 2 bytes
+
+Score: 0 out of 1 No
+
+Question 14
+ The address mode instruction MOV AX, 0005H corresponds to__________.
+
+Response: immediate
+
+Correct : immediate
+
+Score: 1 out of 1 

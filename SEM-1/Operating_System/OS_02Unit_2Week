@@ -1,0 +1,183 @@
+Question 1
+ Which of the following scheduler is also called a memory scheduler?
+
+Response: Medium-term scheduler
+
+Correct : Medium-term scheduler
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which of the following scheduler is also called a job scheduler?
+
+Response: Long-term scheduler
+
+Correct : Long-term scheduler
+
+Score: 1 out of 1 Yes
+
+Question 3
+ Which of the following error occurs when a file is not found?
+
+Response: None of these
+
+Correct : Fatal error
+
+Score: 0 out of 1 No
+
+Question 4
+ A process can consist of:
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Which of the following is used to support the construction of a separate duplicate process?
+
+Response: Fork system call
+
+Correct : Fork system call
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Which of the following model supports the mapping of each user threads that is present in the user space to a kernel thread?
+
+Response: One-to-One Model
+
+Correct : One-to-One Model
+
+Score: 1 out of 1 Yes
+
+Question 7
+ A____________ contains all processes that reside in the main memory and are ready to be executed.
+
+Response: Ready queue
+
+Correct : Ready queue
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Which of the following state of process specifies the process which has finished execution and leaves the system?
+
+Response: Terminated
+
+Correct : Terminated
+
+Score: 1 out of 1 Yes
+
+Question 9
+ ____________ can be defined as the basic units of processing and scheduling with the help of an OS.
+
+Response: Process scheduling
+
+Correct : Thread
+
+Score: 0 out of 1 No
+
+Question 10
+ A process is considered to be in the RUNNING state when it occupies the___________ .
+
+Response: CPU
+
+Correct : CPU
+
+Score: 1 out of 1 Yes
+
+Question 11
+ Which of the following command in Unix is used to list the running processes?
+
+Response: ps command
+
+Correct : ps command
+
+Score: 1 out of 1 Yes
+
+Question 12
+ Which of the following is a state of process?
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 13
+ In which of the following multithreading models, the major disadvantage is that the corresponding kernel thread needs to be created on the creation of the user thread?
+
+Response: One-to-one model
+
+Correct : One-to-one model
+
+Score: 1 out of 1 Yes
+
+Question 14
+ In the__________ state, a process remains in the queue and waits for the execution in the CPU.
+
+Response: Ready
+
+Correct : Ready
+
+Score: 1 out of 1 Yes
+
+Question 15
+ Which of the following enables a process that is present on one system to call a procedure in a process that is present on another system?
+
+Response: Remote procedure call
+
+Correct : Remote procedure call
+
+Score: 1 out of 1 Yes
+
+Question 16
+ Which of the following is the advantage of a multithreaded environment?
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 17
+ Which of the following is a technique used to manage the execution of processes?
+
+Response: Process scheduling
+
+Correct : Process scheduling
+
+Score: 1 out of 1 Yes
+
+Question 18
+ How many types of threads are available in OS?
+a. 2
+b. 3
+c. 4
+d. 5
+
+Response: 2
+
+Correct : 2
+
+Score: 1 out of 1 Yes
+
+Question 19
+ _________ is a data structure that contains the structure of a process, which is executing in an OS.
+
+Response: PCB
+
+Correct : PCB
+
+Score: 1 out of 1 Yes
+
+Question 20
+ A ____________ is an executing program that is present in a computer system.
+
+Response: Process
+
+Correct : Process
+
+Score: 1 out of 1 

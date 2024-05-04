@@ -1,0 +1,89 @@
+Question 1
+ Which among the following is the method of inserting an element in the stack?
+
+Response: Push
+
+Correct : Push
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which is true from the following for prior using a pointer variable?
+
+Response: It should be both declared or initialised
+
+Correct : It should be both declared or initialised
+
+Score: 1 out of 1 Yes
+
+Question 3
+ What is alternative name for the circular queue from the following options?
+
+Response: Ring buffer
+
+Correct : Ring buffer
+
+Score: 1 out of 1 Yes
+
+Question 4
+ When the user attempts to remove the element from the empty stack then the condition is said to be a _____________
+
+Response: Underflow
+
+Correct : Underflow
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Which of the following data structures are in linear type?
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 6
+ ____________ are the basic data structures that can be operated on machine and data instructions directly.
+
+Response: Primitive data structures
+
+Correct : Primitive data structures
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which data structure is generally used for executing the recursive algorithm?
+
+Response: Stack
+
+Correct : Stack
+
+Score: 1 out of 1 Yes
+
+Question 8
+ What are the functions of data structure?
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Which of the following data structure is a nonlinear type?
+
+Response: None of these
+
+Correct : None of these
+
+Score: 1 out of 1 Yes
+
+Question 10
+ Comment on following declaration Int *ptr l;
+
+Response: Ptr is a pointer to integer, l is not
+
+Correct : Ptr and l are pointers to integer
+
+Score: 0 out of 1 

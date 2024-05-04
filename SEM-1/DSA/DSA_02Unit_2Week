@@ -1,0 +1,104 @@
+Question 1
+ What is the output of the following Java code?
+public class array
+{
+public static void main (String args[])
+{
+int y[] = {11,12,13,14,15};
+System.out.println(y[5]);
+}
+}
+
+Response: Array Index Out of Bounds Exception
+
+Correct : Array Index Out of Bounds Exception
+
+Score: 1 out of 1 Yes
+
+Question 2
+ When does the Array Index Out of Bounds Exception occur?
+
+Response: Run time
+
+Correct : Run time
+
+Score: 1 out of 1 Yes
+
+Question 3
+ Which of the following concepts make wide use of arrays?
+
+Response: Caching
+
+Correct : Spatial locality
+
+Score: 0 out of 1 No
+
+Question 4
+ How do you instantiate array in Java?
+
+Response: int r[] = new int[5];
+
+Correct : int r[] = new int[5];
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Select the right declaring statement of a multidimensional array in Java?
+
+Response: int[][]d;
+
+Correct : int[][]d;
+
+Score: 1 out of 1 Yes
+
+Question 6
+ How do you initialize an array in C?
+
+Response: int a[4] = {8,9,10,11};
+
+Correct : int a[4] = {8,9,10,11};
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which among the following are the advantages of array?
+
+Response: Easier to store elements of similar data type
+
+Correct : Easier to store elements of similar data type
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Which of the following concepts make extensive use of arrays?
+
+Response: Caching
+
+Correct : Spatial locality
+
+Score: 0 out of 1 No
+
+Question 9
+ Which of these best describes an array?
+
+Response: Container of object of same types
+
+Correct : Container of object of same types
+
+Score: 1 out of 1 Yes
+
+Question 10
+ What is the output of the following Java code?
+public class array
+{
+public static void main (String args[])
+{
+int []d = {6,7,8,9,10};
+System.out.println (d [2]);
+System.out.println (d [4]);
+
+Response: 8 and 10
+
+Correct : 8 and 10
+
+Score: 1 out of 1 

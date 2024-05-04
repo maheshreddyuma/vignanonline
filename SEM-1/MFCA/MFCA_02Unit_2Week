@@ -1,0 +1,137 @@
+Question 1
+ The set of a rich people of the society is
+
+Response: A finite set
+
+Correct : Not a well-defined collection
+
+Score: 0 out of 1 No
+
+Question 2
+ If A = {a,b}, then Power Set of A is
+
+Response: {Ø, {a,b}, {a}, {b}}
+
+Correct : {Ø, {a,b}, {a}, {b}}
+
+Score: 1 out of 1 Yes
+
+Question 3
+ If A = Ø, then the order of P(A) is
+
+Response: 1
+
+Correct : 1
+
+Score: 1 out of 1 Yes
+
+Question 4
+ The set {x; x is the prime number can be written as x £ 10}
+
+Response: {2,3,5,7}
+
+Correct : {2,3,5,7}
+
+Score: 1 out of 1 Yes
+
+Question 5
+ If n(A)=p, n(B)=q and AÇB = Ø, then n(AÈB) is
+
+Response: p+q
+
+Correct : p+q
+
+Score: 1 out of 1 Yes
+
+Question 6
+
+If A = {1,5}, B={2,4,6} and C={0,2,4,5,6}
+
+Which of the following may be considered as universal sets for all the three sets A,B,C?
+
+Response: {0,1,2,3,4,5,6,7,8,9,10}
+
+Correct : {0,1,2,3,4,5,6,7,8,9,10}
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which of the following operations is not commutative?
+
+Response: Difference of sets
+
+Correct : Difference of sets
+
+Score: 1 out of 1 Yes
+
+Question 8
+ If A and B are finite sets, AB is
+
+Response: (A-B) È(B-A)
+
+Correct : (A-B) È(B-A)
+
+Score: 1 out of 1 Yes
+
+Question 9
+ If n(A) = 11 , n(B)=23 , n(AB)=30 then n(AÈB) is
+
+Response: 64
+
+Correct : 4
+
+Score: 0 out of 1 No
+
+Question 10
+ If A,B,C be three sets such that A B = AC and AB = AC, then
+
+Response: A = C
+
+Correct : B = C
+
+Score: 0 out of 1 No
+
+Question 11
+ If AÇB=A and AÇB=B, then
+
+Response: A and B are equal
+
+Correct : A is a subset of B
+
+Score: 0 out of 1 No
+
+Question 12
+ If M and N are two sets, then MÇ(MÈB)’
+
+Response: M
+
+Correct : Ø
+
+Score: 0 out of 1 No
+
+Question 13
+ If a class of 50 pupils, 17 choose cold drink, 42 choose hot drink and each pupil choose one of the drinks. How many pupils choose both the drinks?
+
+Response: 9
+
+Correct : 9
+
+Score: 1 out of 1 Yes
+
+Question 14
+ Which of the following is correct for (AÈB)  '  ?
+
+Response: A’ÇB’
+
+Correct : A’ÇB’
+
+Score: 1 out of 1 Yes
+
+Question 15
+ If A={1,2,8} then the number of subsets of A is
+
+Response: 8
+
+Correct : 8
+
+Score: 1 out of 1 

@@ -1,0 +1,89 @@
+Question 1
+ Which of the following layers does the HTTP protocol work on?
+
+Response: Application layer
+
+Correct : Application layer
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which of the transport layer protocols is connectionless?
+
+Response: UDP
+
+Correct : UDP
+
+Score: 1 out of 1 Yes
+
+Question 3
+ Logical addresses are_________ .
+
+Response: 32 bit long
+
+Correct : 32 bit long
+
+Score: 1 out of 1 Yes
+
+Question 4
+ The size and format of physical addresses vary depending on the__________ .
+
+Response: network
+
+Correct : network
+
+Score: 1 out of 1 Yes
+
+Question 5
+ The physical addresses change from_______ .
+
+Response: hop to hop
+
+Correct : hop to hop
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Which is the main function of transport layer?
+
+Response: End to end delivery
+
+Correct : End to end delivery
+
+Score: 1 out of 1 Yes
+
+Question 7
+ The first one of the OSI model is_________ .
+
+Response: Physical layer
+
+Correct : Physical layer
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Which of the following TCP/IP protocols is used for transferring files from one machine to another?
+
+Response: FTP
+
+Correct : FTP
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Which of the following switch methods creates a point-to-point physical connection between two or more computers?
+
+Response: Circuit switching
+
+Correct : Circuit switching
+
+Score: 1 out of 1 Yes
+
+Question 10
+ The layer change bits onto electromagnetic signals.
+
+Response: Physical
+
+Correct : Physical
+
+Score: 1 out of 1 
