@@ -1,0 +1,95 @@
+Question 1
+ What is a string?
+
+Response: String is array of characters with null character as last element of array.
+
+Correct : String is array of characters with null character as last element of array.
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which of the following is a sequence of characters that are treated as a single data item and terminated by a null character?
+
+Response: String
+
+Correct : String
+
+Score: 1 out of 1 Yes
+
+Question 3
+ What is the name of elements existing in patterns?
+
+Response: Pattern variables
+
+Correct : Pattern variables
+
+Score: 1 out of 1 Yes
+
+Question 4
+ The operator allows you to use pattern matching characters to define whether one string is equal to another String.
+
+Response: Like
+
+Correct : Like
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Select a right statement about C string.
+char rdt[]="Hello..!";
+
+Response: Character array, rdt is a string
+
+Correct : Character array, rdt is a string
+
+Score: 1 out of 1 Yes
+
+Question 6
+ What kind of return-type used in string operations?
+
+Response: void, int and (char *) only
+
+Correct : void, int and (char *) only
+
+Score: 1 out of 1 Yes
+
+Question 7
+ How do you convert this char array to string?
+char str[]={'s', 'k', 'y''};
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Which operator is used in a pattern to represents one character only?
+
+Response: ?
+
+Correct : ?
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Determine the value which is return by Like operator.
+
+Response: Boolean
+
+Correct : Boolean
+
+Score: 1 out of 1 Yes
+
+Question 10
+ What is the right output of the below programme?
+int main()
+{
+char ary[]="Hitech life"; printf("%s",ary);
+return 0;
+
+Response: Hitech life
+
+Correct : Hitech life
+
+Score: 1 out of 1
