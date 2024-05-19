@@ -1,0 +1,89 @@
+Question 1
+ What is the process of digital communication where a threshold value is set at the receiver to reduce noise?
+
+Response: Signal threshold
+
+Correct : Signal regeneration
+
+Score: 0 out of 1 No
+
+Question 2
+ A term that defines the direction of flow of information between devices is called ____________ .
+
+Response: Transmission mode
+
+Correct : Transmission mode
+
+Score: 1 out of 1 Yes
+
+Question 3
+ A ____________ digital signal includes timing information in the data being transmitted.
+
+Response: Self-synchronizing
+
+Correct : Self-synchronizing
+
+Score: 1 out of 1 Yes
+
+Question 4
+ Why can digital data use time division multiplexing?
+
+Response: Discrete data
+
+Correct : Discrete data
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Unipolar, bipolar, and polar encoding are types of _________ encoding.
+
+Response: Line
+
+Correct : Line
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Which of the following encoding has a transition at the beginning of each 0 bit?
+
+Response: All of these
+
+Correct : Differential Manchester
+
+Score: 0 out of 1 No
+
+Question 7
+ The signal rate is also known as the ____________ rate.
+
+Response: Baud
+
+Correct : Baud
+
+Score: 1 out of 1 Yes
+
+Question 8
+ The signal-to-quantization noise ratio in PCM system depends upon:
+
+Response: Number of quantization levels
+
+Correct : Number of quantization levels
+
+Score: 1 out of 1 Yes
+
+Question 9
+ When decoding a digital signal, the receiver computes a running average of the received signal power, which is referred to as the
+
+Response: Base
+
+Correct : Baseline
+
+Score: 0 out of 1 No
+
+Question 10
+ Serial transmission without stop bits, start bits, or gaps is called ______________ transmission.
+
+Response: Synchronous
+
+Correct : Synchronous
+
+Score: 1 out of 1
