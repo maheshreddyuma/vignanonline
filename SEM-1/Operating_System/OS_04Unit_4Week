@@ -1,0 +1,179 @@
+Question 1
+ Which of the following ensure that the condition of the circular-wait can never hold true by checking the state of resource allocation?
+
+Response: Dijkstra’s Banker’s algorithm
+
+Correct : Dijkstra’s Banker’s algorithm
+
+Score: 1 out of 1 Yes
+
+Question 2
+ In which condition, all processes create a circular chain where each process is holding one or more resources for which the next process in the chain is waiting?
+
+Response: Hold and wait
+
+Correct : circular wait condition
+
+Score: 0 out of 1 No
+
+Question 3
+ In which condition, processes do not release the allocated resources while waiting for other resources?
+
+Response: Hold and wait
+
+Correct : Hold and wait
+
+Score: 1 out of 1 Yes
+
+Question 4
+ ____________ methods are utilised for clearing the deadlock from a system.
+
+Response: Both a. and b.
+
+Correct : Deadlock recovery
+
+Score: 0 out of 1 No
+
+Question 5
+ Which of the following deadlock occurs in communication systems?
+
+Response: Communication deadlock
+
+Correct : Communication deadlock
+
+Score: 1 out of 1 Yes
+
+Question 6
+ In which condition, resources allocated to a process cannot be de-allocated until the process completes its work with the resources currently allocated to them?
+
+Response: No pre-emption condition
+
+Correct : No pre-emption condition
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which of the following is responsible for the allocation of a vast number of resources of various types?
+
+Response: OS
+
+Correct : OS
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Main memory and __________ are shared among many processes.
+
+Response: Both a. and b.
+
+Correct : CPU
+
+Score: 0 out of 1 No
+
+Question 9
+ Under the normal mode of operation, the sequence by which a process may utilise a resource is:
+
+Response: 1-Request, 2-Assignment, 3-Use, 3-Release
+
+Correct : 1-Request, 2-Assignment, 3-Use, 3-Release
+
+Score: 1 out of 1 Yes
+
+Question 10
+ Which of the following determine the processes that may complete their execution and the processes that will remain deadlocked?
+
+Response: Resource allocation graph reduction method
+
+Correct : Resource allocation graph reduction method
+
+Score: 1 out of 1 Yes
+
+Question 11
+ A ________________ can exist if and only if some conditions exist simultaneously in a system.
+
+Response: Deadlock
+
+Correct : Deadlock
+
+Score: 1 out of 1 Yes
+
+Question 12
+ In which condition, a process gets exclusive control of the resources they require?
+
+Response: Mutual exclusion condition
+
+Correct : Mutual exclusion condition
+
+Score: 1 out of 1 Yes
+
+Question 13
+ Name the condition in which a process has to wait for a resource indefinitely.
+
+Response: Starvation
+
+Correct : Starvation
+
+Score: 1 out of 1 Yes
+
+Question 14
+ Most deadlock in the real systems generally involve _____________ processes competing for various resources.
+
+Response: Two
+
+Correct : Many
+
+Score: 0 out of 1 No
+
+Question 15
+ The request and release of resources are performed through_____________ .
+
+Response: System calls
+
+Correct : System calls
+
+Score: 1 out of 1 Yes
+
+Question 16
+ Which of the following is a condition for a deadlock to occur?
+
+Response: All of these
+
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
+Question 17
+ Most_____________ in OS develop because resources are used by only one user process at a time.
+
+Response: Deadlock
+
+Correct : Deadlock
+
+Score: 1 out of 1 Yes
+
+Question 18
+ Which of the following is used for deadlock avoidance?
+
+Response: Dijkstra’s Banker’s Algorithm
+
+Correct : Dijkstra’s Banker’s Algorithm
+
+Score: 1 out of 1 Yes
+
+Question 19
+ How many conditions occur during deadlock?
+
+Response: 4
+
+Correct : 4
+
+Score: 1 out of 1 Yes
+
+Question 20
+ The resource allocation graph reduction method is used for_____________.
+
+Response: Detecting deadlock
+
+Correct : Detecting deadlock
+
+Score: 1 out of 1 
