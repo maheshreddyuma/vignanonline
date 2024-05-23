@@ -1,0 +1,89 @@
+Question 1
+ Fetching the data reserved in a sequential access memory is alike to the process of data manipulation on a __________ .
+
+Response: Array
+
+Correct : Stack
+
+Score: 0 out of 1 No
+
+Question 2
+ Evaluate the postfix expression of P*Q+R/S is:
+
+Response: P*QR+/S
+
+Correct : PQ*RS/+
+
+Score: 0 out of 1 No
+
+Question 3
+ Which data structure among the following is mostly used in a non recursive application of a recursive algorithm?
+
+Response: Stack
+
+Correct : Stack
+
+Score: 1 out of 1 Yes
+
+Question 4
+ Which of the following operation has the worst case linear time in the implementation of stack in array?
+
+Response: POP
+
+Correct : None of these
+
+Score: 0 out of 1 No
+
+Question 5
+ Which among the following is the postfix form of (P + Q)*(R*S – T)*U / V is?
+
+Response: PQ + RS* T – UV/**
+
+Correct : PQ + RS* T – UV/**
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Number of stacks of size n essential to implement a queue of size n is:
+
+Response: Two
+
+Correct : Two
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which among the following type of expression in which operator make its operands to be succeed?
+
+Response: Postfix expression
+
+Correct : Postfix expression
+
+Score: 1 out of 1 Yes
+
+Question 8
+ Which among the following data structure is required to transform infix notation to postfix notation?
+
+Response: Stack
+
+Correct : Stack
+
+Score: 1 out of 1 Yes
+
+Question 9
+ If the elements “W”, “X”, “Y” and “Z” are located in a stack and are removed one at a time, in what order they will be removed?
+
+Response: ZYXW
+
+Correct : ZYXW
+
+Score: 1 out of 1 Yes
+
+Question 10
+ Which among the following is not an essential application of stack?
+
+Response: Job scheduling
+
+Correct : Job scheduling
+
+Score: 1 out of 1 
