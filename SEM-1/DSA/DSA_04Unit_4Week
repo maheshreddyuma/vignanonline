@@ -1,0 +1,124 @@
+Question 1
+ Choose the correct statement about the context of recursion.
+
+Response: Iteration is more desirable compared to recursion
+
+Correct : Recursion requires larger memory than iteration.
+
+Score: 0 out of 1 No
+
+Question 2
+ Choose the number of calls made by recursive function makes:
+void Func_Rcrsv (int v)
+{
+if(v == 0) return; printf(“%d “,v);
+Func_Rcrsv (v-1);
+}
+int main()
+{
+Func_Rcrsv (10);
+return 0;
+}
+
+Response: 11
+
+Correct : 11
+
+Score: 1 out of 1 Yes
+
+Question 3
+ In recursion, the criteria which a recursive function ceases from repeated self calls is ____________ .
+
+Response: Base case
+
+Correct : Base case
+
+Score: 1 out of 1 Yes
+
+Question 4
+ What is the termination condition for the following code?
+void Func_Rcrsv(int n)
+{
+if(n == 0) return; printf(“%d “,n); Func_Rcrsv (n-1);
+}
+int main()
+{
+Func_Rcrsv(10); return 0;
+}
+
+Response: If (v == 0)
+
+Correct : If (v == 0)
+
+Score: 1 out of 1 Yes
+
+Question 5
+ Which among the following recursion is not applicable?
+
+Response: Size of a string
+
+Correct : Problems excluding the base criteria or termination condition
+
+Score: 0 out of 1 No
+
+Question 6
+ In the process of recursion, the resolving problem relies on _____________ .
+
+Response: Minor occurrences of the identical problem
+
+Correct : Minor occurrences of the identical problem
+
+Score: 1 out of 1 Yes
+
+Question 7
+ What is the output of the following program? #include void Func_Rcrsv (int v) { if(v == 0) return; Func_Rcrsv (v-1); printf(“%d “,v); } int main() { Func_Rcrsv (9); return (0); }
+
+Response: Displays the numbers ranging from 9 to 1
+
+Correct : Displays the numbers ranging from 1 to 9
+
+Score: 0 out of 1 No
+
+Question 8
+ Recursion resembles which of the statements below?
+
+Response: Looping constructs
+
+Correct : Looping constructs
+
+Score: 1 out of 1 Yes
+
+Question 9
+
+Which statement is true for the given algorithm?
+
+Void Func_Rcrsv()
+
+{
+
+Func_Rcrsv();
+
+}
+
+int main()
+
+{
+
+Func_Rcrsv (); return 0;
+
+}
+
+Response: The program will stop because of encountered overflow condition in stack. 
+
+Correct : The program will stop because of encountered overflow condition in stack. 
+
+Score: 1 out of 1 Yes
+
+Question 10
+ What is the output of the given algorithm? #include void Func_Rcrsv(int n) { if(n == 0) return; printf(“%d “,n); Func_Rcrsv (n-1); } int main() { Func_Rcrsv(10); return 0; }
+
+Response: 10 9 8 … 1
+
+Correct : 10 9 8 … 1
+
+Score: 1 out of 1 
