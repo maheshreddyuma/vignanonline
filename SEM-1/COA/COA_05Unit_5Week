@@ -3,56 +3,87 @@ Question 1
 
 Response: Paged virtual memory
 
-Edit
+Correct : Segmented virtual memory with paging
+
+Score: 0 out of 1 No
+
 Question 2
  Which of the following is a page replacement algorithm?
 
 Response: All of these
 
-Edit
+Correct : Page classes
+
+Score: 0 out of 1 No
+
 Question 3
  Which of the following is a type of memory that operates at extremely fast speeds?
 
 Response: Cache memory
 
-Edit
+Correct : Cache memory
+
+Score: 1 out of 1 Yes
+
 Question 4
  Which of the following mapping method maps each block of main memory into only one potential cache line?
 
 Response: Direct mapping
 
-Edit
+Correct : Direct mapping
+
+Score: 1 out of 1 Yes
+
 Question 5
  In which of the following page replacement algorithm refers to replacement algorithm that replaces the page that has been in the memory the longest?
 
 Response: First-in-First-out
 
-Edit
+Correct : First-in-First-out
+
+Score: 1 out of 1 Yes
+
 Question 6
  Which of the following gives a computer programmer an addressing space that is several times bigger than the main memory’s physically available addressing area?
 
 Response: Virtual memory
 
-Edit
+Correct : Virtual memory
+
+Score: 1 out of 1 Yes
+
 Question 7
  Which of the following is the address created by the CPU in a virtual memory system?
 
 Response: Virtual address
 
-Edit
+Correct : Virtual address
+
+Score: 1 out of 1 Yes
+
 Question 8
  Which of the following page replacement algorithm selects a page for replacement if the page was not often used in the past?
 
 Response: Least Frequently Used
 
-Edit
+Correct : Least Frequently Used
+
+Score: 1 out of 1 Yes
+
 Question 9
  Which of the following is/are type(s) of mapping functions that is used by cache memory?
 
 Response: All of these
 
-Edit
+Correct : All of these
+
+Score: 1 out of 1 Yes
+
 Question 10
  The virtual address of a paged memory is made up of two parts: the page number and the ____________ .
 
 Response: Word displacement
+
+Correct : Word displacement
+
+Score: 1 out of 1 
