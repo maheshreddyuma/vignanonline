@@ -1,0 +1,179 @@
+Question 1
+ In which of the following the page number portion of the virtual address is matched into a hash table by using a simple hashing function?
+
+Response: Inverted page table
+
+Correct : Inverted page table
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which of the following is the issue in contiguous memory distribution?
+
+Response: Memory fragmentation in which areas of memory become useless, and methods to treat it
+
+Correct : All of these
+
+Score: 0 out of 1 No
+
+Question 3
+ The memory protection is achieved with the help of _________ related with each page.
+
+Response: Protection bit
+
+Correct : Protection bit
+
+Score: 1 out of 1 Yes
+
+Question 4
+ The main aim of hardware support for paging is to save _____________ .
+
+Response: Multiprogramming environment
+
+Correct : Page Map Table (PMT)
+
+Score: 0 out of 1 No
+
+Question 5
+ The variable-sized partitioning has the problem of external fragmentation.
+
+Response: External fragmentation
+
+Correct : External fragmentation
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Which of the following is not a secondary memory?
+
+Response: ROM
+
+Correct : ROM
+
+Score: 1 out of 1 Yes
+
+Question 7
+ Which of the following is the method of preventing an active process from executing for a temporary time period in which another process takes the address space that was allocated to the former process?
+
+Response: Swapping
+
+Correct : Swapping
+
+Score: 1 out of 1 Yes
+
+Question 8
+ In paging, every process’s virtual address space is logically divided into ____________ .
+
+Response: Pages
+
+Correct : Pages
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Which of the following is also used in priority-based CPU-scheduling algorithm?
+
+Response: Partitioning
+
+Correct : Swapping
+
+Score: 0 out of 1 No
+
+Question 10
+ Which of the following is known as a memory allocation model?
+
+Response: Contiguous memory allocation
+
+Correct : Contiguous memory allocation
+
+Score: 1 out of 1 Yes
+
+Question 11
+ In buddy algorithm, each memory area is referred to as a ________________ .
+
+Response: Block
+
+Correct : Block
+
+Score: 1 out of 1 Yes
+
+Question 12
+ The unequal fixed size partitioning has the problem of ______________ .
+
+Response: Internal fragmentation
+
+Correct : Internal fragmentation
+
+Score: 1 out of 1 Yes
+
+Question 13
+ Which of the following is used by the Linux OS for allocation and de-allocation of pages?
+
+Response: Buddy algorithm
+
+Correct : Buddy algorithm
+
+Score: 1 out of 1 Yes
+
+Question 14
+ The limitation of swapping is that it increases the ____________ time significantly.
+
+Response: Waiting time
+
+Correct : Context switching
+
+Score: 0 out of 1 No
+
+Question 15
+ The full form of PTBR:
+
+Response: Page Table Base Register
+
+Correct : Page Table Base Register
+
+Score: 1 out of 1 Yes
+
+Question 16
+ TLB stands for:
+
+Response: Translation Look aside Buffer
+
+Correct : Translation Look aside Buffer
+
+Score: 1 out of 1 Yes
+
+Question 17
+ In which of the following each program is allotted a single adjoining area in the memory?
+
+Response: Contiguous memory allocation
+
+Correct : Contiguous memory allocation
+
+Score: 1 out of 1 Yes
+
+Question 18
+ Which of the following allows the programmer to interpret memory as consisting of multiple address spaces or segments?
+
+Response: Segmentation
+
+Correct : Segmentation
+
+Score: 1 out of 1 Yes
+
+Question 19
+ Which of the following allows programmer to interpret memory as consisting of multiple address space?
+
+Response: Segmentation
+
+Correct : Segmentation
+
+Score: 1 out of 1 Yes
+
+Question 20
+ In paging, the physical address space is divided into fixed-size unit equal in size to that of a page in a secondary storage. This is called ______________ .
+
+Response: Page frame
+
+Correct : Page frame
+
+Score: 1 out of 1 
